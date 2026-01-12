@@ -1,0 +1,20 @@
+public class Flashcard{
+  private String term;
+  private String description;
+
+  public Flashcard (String t, String d){
+    term = t;
+    description = d;
+  }
+
+  public String getFlashcardTerm (){
+    term1 = ;
+    description1 = ;
+  }
+
+  public String getFlashcardDescription(){
+    
+    
+  }
+
+}
